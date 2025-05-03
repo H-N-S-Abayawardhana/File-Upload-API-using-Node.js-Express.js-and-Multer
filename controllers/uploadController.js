@@ -1,4 +1,3 @@
-// Controller handling file upload logic with database integration
 const path = require('path');
 const File = require('../models/file');
 

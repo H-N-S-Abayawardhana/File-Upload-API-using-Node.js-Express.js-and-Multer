@@ -1,4 +1,3 @@
-// Routes for file upload functionality with database integration
 const express = require('express');
 const router = express.Router();
 const uploadController = require('../controllers/uploadController');

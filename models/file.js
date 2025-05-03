@@ -1,4 +1,3 @@
-// File model for database storage
 const mongoose = require('mongoose');
 
 const fileSchema = new mongoose.Schema({
