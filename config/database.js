@@ -1,4 +1,3 @@
-// Database connection configuration
 const mongoose = require('mongoose');
 
 // Get MongoDB connection string from environment variable or use default
