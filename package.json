@@ -1,0 +1,20 @@
+{
+  "name": "file-upload-api-using-node.js-express.js-and-multer",
+  "version": "1.0.0",
+  "description": "A simple and lightweight RESTful API built with Node.js and Express.js that allows users to upload any type of file (images, documents, videos, etc.) to a local server. Multer is used for handling multipart/form-data and storing files in a designated directory. The API returns preview or download URLs for uploaded files.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/H-N-S-Abayawardhana/File-Upload-API-using-Node.js-Express.js-and-Multer.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/H-N-S-Abayawardhana/File-Upload-API-using-Node.js-Express.js-and-Multer/issues"
+  },
+  "homepage": "https://github.com/H-N-S-Abayawardhana/File-Upload-API-using-Node.js-Express.js-and-Multer#readme"
+}
