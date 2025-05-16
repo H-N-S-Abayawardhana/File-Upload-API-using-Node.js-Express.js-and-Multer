@@ -1,6 +1,5 @@
 const mongoose = require('mongoose');
 
-// Get MongoDB connection string from environment variable or use default
 const mongoURI = process.env.MONGODB_URI || 'mongodb://localhost:27017/file-upload-api';
 
 // Connect to MongoDB

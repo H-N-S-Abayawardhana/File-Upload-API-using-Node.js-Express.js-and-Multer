@@ -28,7 +28,7 @@ const fileSchema = new mongoose.Schema({
   userId: {
     type: mongoose.Schema.Types.ObjectId,
     ref: 'User',
-    required: false // Optional: link to a user if you have user authentication
+    required: false 
   }
 });
 
