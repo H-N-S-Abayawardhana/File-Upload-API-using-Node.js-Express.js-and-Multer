@@ -32,7 +32,7 @@ const fileSchema = new mongoose.Schema({
   }
 });
 
-// Generate the public URL for the file
+
 fileSchema.methods.getUrl = function(req) {
   return `${req.protocol}://${req.get('host')}/files/${this.filename}`;
 };

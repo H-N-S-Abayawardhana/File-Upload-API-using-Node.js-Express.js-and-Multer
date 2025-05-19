@@ -70,7 +70,7 @@ const uploadController = {
           // userId: req.user._id
         });
 
-        // Save to database
+        // Save to the database
         await newFile.save();
         
         savedFiles.push({
